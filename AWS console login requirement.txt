@@ -1,0 +1,16 @@
+AWS console login requirement :
+
+ 1)Account ID or alias
+ 2)IAM username
+ 3)password
+ 4)login URL
+
+AWS CLI & Terraform method login requirement :
+ 1)IAM username
+ 2)Access key ID & Secret access key
+ 3)CLI installed (version)
+ 4)Terraform installed (version)
+
+S3 bucket creation need 
+ 1)) user with full permission for S3
+ 2)region, bucket type & bucket name   
